@@ -10,7 +10,6 @@ Check real-time weather conditions anywhere in the world 🌍.
 - ☁️ Weather description (clear sky, rain, snow, etc.)
 - 💨 Wind speed details
 - 🎨 Clean, responsive design with modern styling
-- ⚡ Deployed on Netlify/Vercel for cloud hosting
 
 ---
 
