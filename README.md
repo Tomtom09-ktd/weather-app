@@ -30,7 +30,7 @@ Check real-time weather conditions anywhere in the world 🌍.
 
 1. Clone the repo:
    ```bash
-    git clone https://github.com/YOUR-USERNAME/weather-dashboard.git
+    git clone https://github.com/Tomtom09-ktd/weather-dashboard.git
    cd weather-dashboard
-   git clone https://github.com/YOUR-USERNAME/weather-dashboard.git
+   git clone https://github.com/Tomtom09-ktd/weather-dashboard.git
    cd weather-dashboard
